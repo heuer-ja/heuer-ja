@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heuer-ja.
-- 👀 I’m interested in Data Science/Analysis/Science, and Machine Learning.
+- 👀 I’m interested in Data Science/Analysis/Mining, and Machine Learning.
 - 🌱 I’m currently learning SQL, Python, and Power BI.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joel-amarou-heuer-931a1b201/).
 
